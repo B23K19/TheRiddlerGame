@@ -1,0 +1,14 @@
+C:\Users\boydd\OneDrive\Desktop\ModeRiddler\bin\Debug\net8.0\ModeRiddler.exe
+C:\Users\boydd\OneDrive\Desktop\ModeRiddler\bin\Debug\net8.0\ModeRiddler.deps.json
+C:\Users\boydd\OneDrive\Desktop\ModeRiddler\bin\Debug\net8.0\ModeRiddler.runtimeconfig.json
+C:\Users\boydd\OneDrive\Desktop\ModeRiddler\bin\Debug\net8.0\ModeRiddler.dll
+C:\Users\boydd\OneDrive\Desktop\ModeRiddler\bin\Debug\net8.0\ModeRiddler.pdb
+C:\Users\boydd\OneDrive\Desktop\ModeRiddler\obj\Debug\net8.0\ModeRiddler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boydd\OneDrive\Desktop\ModeRiddler\obj\Debug\net8.0\ModeRiddler.AssemblyInfoInputs.cache
+C:\Users\boydd\OneDrive\Desktop\ModeRiddler\obj\Debug\net8.0\ModeRiddler.AssemblyInfo.cs
+C:\Users\boydd\OneDrive\Desktop\ModeRiddler\obj\Debug\net8.0\ModeRiddler.csproj.CoreCompileInputs.cache
+C:\Users\boydd\OneDrive\Desktop\ModeRiddler\obj\Debug\net8.0\ModeRiddler.dll
+C:\Users\boydd\OneDrive\Desktop\ModeRiddler\obj\Debug\net8.0\refint\ModeRiddler.dll
+C:\Users\boydd\OneDrive\Desktop\ModeRiddler\obj\Debug\net8.0\ModeRiddler.pdb
+C:\Users\boydd\OneDrive\Desktop\ModeRiddler\obj\Debug\net8.0\ModeRiddler.genruntimeconfig.cache
+C:\Users\boydd\OneDrive\Desktop\ModeRiddler\obj\Debug\net8.0\ref\ModeRiddler.dll
